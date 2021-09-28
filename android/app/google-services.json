@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146410637577",
+    "project_id": "pratices-c2dfc",
+    "storage_bucket": "pratices-c2dfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146410637577:android:d4ee7d94e49b3ec6a02bd8",
+        "android_client_info": {
+          "package_name": "com.example.upload_file"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146410637577-lhr1jbh0a7tg9k3cktv0oe14m1608vh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUj1BPuvhFoz_ibzSxARfWvRg_oslOKmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146410637577-lhr1jbh0a7tg9k3cktv0oe14m1608vh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
